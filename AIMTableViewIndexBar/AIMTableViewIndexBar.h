@@ -36,7 +36,7 @@
 
 @interface AIMTableViewIndexBar : UIView
 
-@property (nonatomic, retain) NSArray *indexes;
-@property (nonatomic, assign) id <AIMTableViewIndexBarDelegate> delegate;
+@property (nonatomic, strong) NSArray *indexes;
+@property (nonatomic, weak) id <AIMTableViewIndexBarDelegate> delegate;
 
 @end

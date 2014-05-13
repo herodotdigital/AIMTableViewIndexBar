@@ -4,7 +4,7 @@ AIMTableViewIndexBar
 Custom index bar for UITableView
 
 ```bash
-pod 'AIMTableViewIndexBar', '~> 0.1.0'
+pod 'AIMTableViewIndexBar', '~> 0.1.1'
 ```
 
 <p align="center" >
